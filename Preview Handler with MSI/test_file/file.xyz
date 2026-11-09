@@ -1,0 +1,5 @@
+This is a sample .xyz file used to test the Xyz Preview Handler.
+Select it in File Explorer with the Preview Pane open (Alt + P) to see its content without opening ViewerApp.
+
+This file intentionally uses Unix (LF) line endings: the preview handler converts them so each line still shows on its own row.
+Resize the Preview Pane and the long lines above should wrap to the next row.
